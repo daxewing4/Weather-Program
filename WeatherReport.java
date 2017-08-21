@@ -1,3 +1,4 @@
+//Dax Ewing
 import java.util.Scanner;
 
 public class Weather_code
